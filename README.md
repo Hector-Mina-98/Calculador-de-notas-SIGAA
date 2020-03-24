@@ -1,8 +1,8 @@
 # Calculador-de-notas-SIGAA
 
-Una interfaz sencilla realizada en JAVA para calcular las notas del SIGAA.
+Una interfaz sencilla realizada en JAVA para calcular las notas del SIGAA (para estudiantes de la Universidad Pontificia Bolivariana).
 
-El usuario ingresa a las calificaciones del SIGAA (Universidad Pontificia Bolivariana), luego copia todo el
+El usuario ingresa a las calificaciones del SIGAA, luego copia todo el
 contenido donde están las notas, incluido los títulos de las notas y los porcentajes (todo el contenido se copia junto una sola vez),
 después pega esta información en el área de texto de la aplicación.
 
